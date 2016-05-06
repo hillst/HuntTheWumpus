@@ -1,0 +1,6 @@
+Virtual is like an interface or abstract method:
+
+Virtual vs redefine
+    If you redefine, you need to keep the concrete type for it to work.
+        In the zoo homework, you can *inherit* some 
+    If you use virtual, it will select the child class implementation

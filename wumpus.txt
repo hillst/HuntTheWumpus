@@ -1,0 +1,17 @@
+Students will:
+
+implement a Map
+    implement child classes of Map which rely on virtual functions
+
+implement Hazards
+    hazards rely on virtual functions and polymorphisms
+    PERCEPT WHEN ADJACENT
+    EFFECT WHEN INSIDE THE TILE
+
+implement Caves
+    caves may contain a hazard
+    caves may contain a player 
+
+Events
+    Hazards
+    Others
