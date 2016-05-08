@@ -4,3 +4,7 @@ Virtual vs redefine
     If you redefine, you need to keep the concrete type for it to work.
         In the zoo homework, you can *inherit* some 
     If you use virtual, it will select the child class implementation
+
+polymorphism only works when you pass by value and pass by reference -- TELL STUDNETS THIS
+
+IF you want to use polymorphism on anarrya
